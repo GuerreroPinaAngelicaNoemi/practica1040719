@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Registro</string>
+    <string name="ingresa_name">ingresa nombre:</string>
+    <string name="nombre_name">Nombre</string>
+    <string name="ingresa_firtsname">Ingresa Apellido</string>
+    <string name="apellido_firtsname">Apellido</string>
+    <string name="contraseña_Password">Contraseña</string>
+    <string name="ingresa_password">Ingresa contraseña</string>
+</resources>
